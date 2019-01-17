@@ -38,7 +38,7 @@ Jquery Library
 Font Awesome 5
   =========== Thanks ======== please dont Forget to Leave your Feedback.
 
-☑️N.B: I develop this template for my client. That Why Donto Share this Code.
+☑️N.B: I develop this template for my personal practice.Here psd Design is not mine,But Every Single line code written by me..
 
 Facebookhttps://www.facebook.com/Radwandevs/?modal=admin_todo_tour"
 Twitter:https://twitter.com/RadwanAnik 
